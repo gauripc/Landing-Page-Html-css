@@ -1,0 +1,164 @@
+.min-h-screen{
+    min-height: 100vh;
+}
+
+.bg-red{
+    background-color: palevioletred;
+}
+
+.mx-auto{
+    margin-left: auto ;
+    margin-right: auto;
+}
+
+.items-center{
+    align-items: center;
+}
+
+.justify-corner{
+    justify-content: left;
+}
+
+.justify-between{
+    justify-content: space-between;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.flex{
+    display: flex;
+}
+
+.font-bold{
+    font-weight: bolder;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.my-1{
+    margin-top: 13px;
+    margin-bottom: 13px;
+}
+
+.my-1{
+    margin-top: 26px;
+    margin-bottom: 26px;
+}
+
+.px-2{
+    padding-left: 13px;
+    padding-right: 13px;
+}
+
+.text-col{
+   color: rgb(61, 164, 30);
+}
+
+.head-col{
+    color: rgb(2, 117, 152);
+}
+
+.btn1{
+    padding: 4px 12px;
+    border: 1px solid black;
+    border-radius: 12px;
+    color: white;
+    cursor: pointer;
+    background-color: rgb(61, 164, 30);
+}
+
+.logo{
+    font-size: 1.5rem;
+}
+
+.overflow-x-hidden{
+    overflow-x: hidden;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.btn2{
+    padding: 12px 25px;
+    border: 1.5px solid rgb(164, 83, 3);
+    border-radius: 10px;
+    color: white;
+    cursor: pointer;
+    background-color: rgb(233, 165, 48);
+    font-size: larger;
+}
+
+.footer1{
+    margin: 1px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+    padding: 180px;
+    background-image: url(login.jpeg); 
+    background-size: cover;
+    background-position: center;
+    min-width: 100px;
+}
+
+.signup{
+    width: 300px;
+    box-shadow: 0 0 3px 0 rgb(0,0,0,0.3);
+    background: #fff;
+    padding: 20px;
+    margin: 8% auto 0;
+    text-align: center;
+}
+
+.signup h1{
+    color: rgb(27, 118, 85);
+    margin-bottom: 30px;
+}
+
+.inputbox{
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px 0;
+    width: 94%;
+    border: 1px solid black;
+    outline: none;
+}
+
+.signupbtn{
+    color: black;
+    background-color: white;
+    width: 100%;
+    padding: 10px;
+    font-size: 15px;
+    margin: 10px 0;
+    border: 1px solid rgb(27, 118, 85);
+    border-radius: 10px;
+    outline: none;
+    cursor: pointer;
+}
+
+.googlebtn{
+    color: black;
+    background-color: white;
+    width: 100%;
+    padding: 10px;
+    font-size: 15px;
+    margin: 10px 0;
+    border: 1px solid rgb(27, 118, 85);
+    border-radius: 10px;
+    outline: none;
+    cursor: pointer;
+}
+
+a{
+    text-decoration: none;
+}
+
+.or{
+    background: #fff;
+    width: 30px;
+    margin: -19px auto -5px;
+}
